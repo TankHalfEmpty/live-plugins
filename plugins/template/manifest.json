@@ -1,14 +1,14 @@
 {
-    "name": "Message Logger",
-    "description": "Log deleted messages.",
-    "authors": [
-        {
-            "name": "TankHalfEmpty",
-            "id": "YOUR_ID_HERE"
-        }
-    ],
-    "main": "src/index.ts",
-    "vendetta": {
-        "icon": "ic_badge_staff"
+  "name": "Message Logger",
+  "description": "Temporarily logs deletions for moderation purposes",
+  "authors": [
+    {
+      "name": "TankHalfEmpty",
+      "id": "265064055490871297"
     }
+  ],
+  "main": "src/index.ts",
+  "vendetta": {
+    "icon": "ic_audit_log_24px"
+  }
 }
