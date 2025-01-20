@@ -1,10 +1,10 @@
 {
-  "name": "Message Logger",
+  "name": "Message Loggerz",
   "description": "Temporarily logs deletions for moderation purposes",
   "authors": [
     {
       "name": "TankHalfEmpty",
-      "id": "265064055490871297"
+      "id": "742913815548526617"
     }
   ],
   "main": "src/index.ts",
